@@ -7,6 +7,7 @@ A full-stack web application combining Go (backend) and React (frontend).
 - RESTful API built with Go
 - Modern React frontend
 - Easy setup and deployment
+- DB Postgres
 
 ## Getting Started
 
