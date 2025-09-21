@@ -16,27 +16,12 @@ A full-stack web application combining Go (backend) and React (frontend).
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
 
-### Backend Setup
-
-```bash
-cd backend
-go run main.go
-```
-
-### Frontend Setup
-
-```bash
-cd frontend
-npm install
-npm start
-```
 
 ## Project Structure
 
 ```
 Go-React-App/
-├── backend/   # Go API server
-└── frontend/  # React application
+└── client/  # React application
 ```
 
 🚧 **Project Status:** In Development  
